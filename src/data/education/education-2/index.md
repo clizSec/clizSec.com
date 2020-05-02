@@ -1,7 +1,7 @@
 ---
 category: 'education'
 university: 'John Bryce'
-degree: 'Bachelor'
+degree: 'Certificate'
 startDate: 'Oct 2014'
 endDate: 'Dec 2017'
 ---

@@ -1,7 +1,7 @@
 ---
 category: 'education'
 university: 'Canadian Hadassah'
-degree: 'Bachelor'
+degree: 'Certificate'
 startDate: 'Jan 2007'
 endDate: 'Dec 2010'
 ---
