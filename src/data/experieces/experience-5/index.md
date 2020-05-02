@@ -1,9 +1,9 @@
 ---
 category: 'experiences'
-company: 'HackerOne'
-position: 'Bounty Hunter'
-startDate: 'Feb 2015'
+company: 'Trustifi'
+position: 'Information Security, Compliance and Data Protection Officer'
+startDate: 'Aug 2018'
 endDate: 'Present'
 ---
 
-Hunting for bugs and volunteering to protect the community.
+Email technology, security and encryption, leading the information security, compliance and the data protection in the company and in charge of PCI DSS, ISO's, HIPAA and GDPR implementations.
