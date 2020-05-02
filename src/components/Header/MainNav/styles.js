@@ -13,7 +13,7 @@ export const MainNavItem = motion.custom(styled(Link)`
   width: max-content;
 
   &.active {
-    ${tw`border-pink-500`};
+    ${tw`border-blue-500`};
   }
 
   &:before {
