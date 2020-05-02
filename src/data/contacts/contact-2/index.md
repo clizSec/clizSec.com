@@ -2,5 +2,5 @@
 category: 'contact'
 title: 'Email'
 icon: 'paper-plane'
-content: 'clizsec@gmail.com'
+content: '&#99;&#108;&#105;&#122;&#115;&#101;&#99;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'
 ---
