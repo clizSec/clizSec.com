@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby.JS`,
-    description: `Gatsby Markdown Personal Website Starter, using Styled Components, Tailwindcss and Framer Motion.`,
-    author: `Saimir Kapaj`
+    title: `clizSec | My Personal Resume`,
+    description: `Get to know more about Mark Liapustin known as clizSec, Cyber Security Specialist focusing on Information Security on Critical Infrastructures`,
+    author: `Mark Liapustin`
   },
   plugins: [
     `gatsby-plugin-typescript`,
