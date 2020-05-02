@@ -1,7 +1,7 @@
 ---
 category: 'education'
 university: 'Cybrary'
-degree: 'Certificate'
+degree: 'Online Certificate'
 startDate: 'Mar 2016'
 endDate: 'June 2017'
 ---
