@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 import Header from 'components/Header';
 import Footer from 'components/Footer';
-import ContactMe from 'components/ContactMe';
+import PreFooter from 'components/PreFooter';
 
 import 'assets/styles/global.css';
 import GlobalStyles from 'assets/styles/globalStyles';
@@ -35,7 +35,7 @@ const Layout = ({ children }) => {
             transition={{ delay: 0.2 }}
           >
             {children}
-            <ContactMe />
+            <PreFooter />
             <Footer />
           </motion.div>
         </Styled.Layout>
