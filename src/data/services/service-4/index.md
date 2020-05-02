@@ -2,5 +2,5 @@
 category: 'services'
 title: 'Researcher'
 icon: 'search'
-description: 'Conduct research into security vulnerabilities that exist in software applications, hardware, discover and reverse engineer malware, and finds flaws in websites and commonly used Internet protocols.'
+description: 'Research into security issues in applications, hardware and Internet protocols.'
 ---
