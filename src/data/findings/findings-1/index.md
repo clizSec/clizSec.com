@@ -7,5 +7,4 @@ endDate: 'May 2017'
 ---
 
 Path traversal vulnerability in WordPress Core Ajax handlers.
-Disclosure: https://hackerone.com/reports/163307
-Bounty: Yes
+Disclosed at https://hackerone.com/reports/163307 with a bounty.

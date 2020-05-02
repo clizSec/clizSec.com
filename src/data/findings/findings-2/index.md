@@ -7,5 +7,4 @@ endDate: 'Jun 2017'
 ---
 
 Critical vulnerabilities in FlexiSpy's services.
-Disclosure: Undisclosed
-Bounty: Yes
+Undisclosed with a bounty.

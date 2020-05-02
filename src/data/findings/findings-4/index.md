@@ -7,5 +7,4 @@ endDate: 'May 2017'
 ---
 
 Information disclosure of secret files/documents on US army corps of engineers research and development center.
-Disclosure: https://hackerone.com/reports/186307
-Bounty: Volunteer
+Disclosed at https://hackerone.com/reports/186307
