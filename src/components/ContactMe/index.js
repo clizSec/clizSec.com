@@ -1,5 +1,5 @@
 import React from 'react';
-import { useStaticQuery, graphql } from 'gatsby';
+import { useStaticQuery, graphql, Link } from 'gatsby';
 
 import Container from 'components/ui/Container';
 import Button from 'components/ui/Button';
@@ -15,6 +15,7 @@ const ContactMe = () => {
           title
           subtitle
           submitPlaceholder
+          linkTo
         }
       }
     }
@@ -27,9 +28,11 @@ const ContactMe = () => {
       <Container section>
         <TitleSection title={contact.title} subtitle={contact.subtitle} center />
         <Styled.Form>
-          <Button primary block>
-            {contact.submitPlaceholder}
-          </Button>
+          <Link to={contact.linkTo}>
+            <Button primary block>
+              {contact.submitPlaceholder}
+            </Button>
+          </Link>
         </Styled.Form>
       </Container>
     </Styled.ContactMe>
