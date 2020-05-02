@@ -7,37 +7,33 @@ import TitleSection from 'components/ui/TitleSection';
 
 import * as Styled from './styles';
 
-const Newsletter = () => {
+const ContactMe = () => {
   const { markdownRemark } = useStaticQuery(graphql`
     query {
-      markdownRemark(frontmatter: { category: { eq: "newsletter section" } }) {
+      markdownRemark(frontmatter: { category: { eq: "contactme section" } }) {
         frontmatter {
           title
           subtitle
-          namePlaceholder
-          emailPlaceholder
           submitPlaceholder
         }
       }
     }
   `);
 
-  const newsletter = markdownRemark.frontmatter;
+  const contact = markdownRemark.frontmatter;
 
   return (
-    <Styled.Newsletter>
+    <Styled.ContactMe>
       <Container section>
-        <TitleSection title={newsletter.title} subtitle={newsletter.subtitle} center />
+        <TitleSection title={contact.title} subtitle={contact.subtitle} center />
         <Styled.Form>
-          <Styled.Input type="text" placeholder={newsletter.namePlaceholder} />
-          <Styled.Input type="email" placeholder={newsletter.emailPlaceholder} />
           <Button primary block>
-            {newsletter.submitPlaceholder}
+            {contact.submitPlaceholder}
           </Button>
         </Styled.Form>
       </Container>
-    </Styled.Newsletter>
+    </Styled.ContactMe>
   );
 };
 
-export default Newsletter;
+export default ContactMe;
