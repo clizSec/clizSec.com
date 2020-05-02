@@ -6,7 +6,7 @@ import {
   faShieldAlt,
   faUserSecret,
   faFileContract,
-  faSearchengin,
+  faSearch,
   faMapMarkerAlt,
   faPhone,
   faPaperPlane
@@ -14,7 +14,7 @@ import {
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 /* add any additional icon to the library */
-library.add(fab, faShieldAlt, faUserSecret, faFileContract, faSearchengin, faMapMarkerAlt, faPhone, faPaperPlane);
+library.add(fab, faShieldAlt, faUserSecret, faFileContract, faSearch, faMapMarkerAlt, faPhone, faPaperPlane);
 
 const Icon = ({ ...props }) => <FontAwesomeIcon {...props} />;
 
