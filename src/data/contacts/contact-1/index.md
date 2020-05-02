@@ -1,6 +1,6 @@
 ---
 category: 'contact'
-title: 'Phone'
-icon: 'phone'
-content: '+122 334 888 323'
+title: 'Address'
+icon: 'map-marker-alt'
+content: 'Netanya, Israel'
 ---
