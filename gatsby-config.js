@@ -43,8 +43,8 @@ module.exports = {
         name: `gatsby-personal-website-starter`,
         short_name: `starter`,
         start_url: `/`,
-        background_color: `#ed64a6`,
-        theme_color: `#ed64a6`,
+        background_color: `#073192`,
+        theme_color: `#073192`,
         display: `minimal-ui`,
         icon: `src/assets/images/logo.png`
       }
