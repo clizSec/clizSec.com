@@ -1,9 +1,9 @@
 ---
 category: 'education'
-university: 'Stanford University'
-degree: 'Master of Science'
-startDate: 'Oct 2008'
-endDate: 'Jul 2010'
+university: 'John Bryce'
+degree: 'Bachelor'
+startDate: 'Oct 2014'
+endDate: 'Dec 2017'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborist.
+Linux, network research and penetration, web application security, python scripting and security, digital forensics, reverse engineering and exploitation, and IoT exploitation.

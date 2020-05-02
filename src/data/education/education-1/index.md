@@ -1,9 +1,9 @@
 ---
 category: 'education'
-university: 'Columbia University'
+university: 'Canadian Hadassah'
 degree: 'Bachelor'
-startDate: 'Oct 2005'
-endDate: 'Jul 2008'
+startDate: 'Jan 2007'
+endDate: 'Dec 2010'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Cisco network administrator, systems, networking switch/router/hub and LAN/WAN management
