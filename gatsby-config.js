@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `clizSec | My Personal Resume`,
+    title: `clizSec | Cyber Security Specialist`,
     description: `Get to know more about Mark Liapustin known as clizSec, Cyber Security Specialist focusing on Information Security on Critical Infrastructures`,
     author: `Mark Liapustin`
   },
