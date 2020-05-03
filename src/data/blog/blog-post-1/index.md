@@ -12,7 +12,7 @@ _Exploitation on SCADA/ICS/OT device running in critical infrastructures_.
 
 **What is SCADA, ICS or OT?**
 
-![Critical Infrastructure](./cover.jpg)
+![Industrial Infrastructure](./cover.jpg)
 
 **SCADA**: "SCADA is an acronym for supervisory control and data acquisition, a computer system for gathering and analyzing real time data. SCADA systems are used to monitor and control a plant or equipment in industries such as telecommunications, water and waste control, energy, oil and gas refining and transportation."
 
@@ -20,7 +20,11 @@ _Exploitation on SCADA/ICS/OT device running in critical infrastructures_.
 
 **OT**: "Operational Technology – the hardware and software dedicated to detecting or causing changes in physical processes through direct monitoring and/or control of physical devices such as valves, pumps, etc."
 
+<br/>
+
 ---
+
+<br/>
 
 **Conext ComBox - Denial of Service (HTTP-POST)**
 
@@ -35,6 +39,12 @@ _Exploitation on SCADA/ICS/OT device running in critical infrastructures_.
 **Software Link**: http://cdn.solar.schneider-electric.com/wp-content/uploads/2016/06/conext-combox-data-sheet-20160624.pdf
 
 **CVE**: CVE-2017-6019
+
+<br/>
+
+---
+
+<br/>
 
 **Exploit Code**:
 
