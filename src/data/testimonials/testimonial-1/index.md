@@ -1,7 +1,7 @@
 ---
 category: 'testimonials'
 cover: './testimonial-1.jpg'
-title: 'Nick Carraway'
+title: 'U.S. DEPT OF DEFENSE'
 ---
 
-One of our best experiences working with Mark Liapustin to review our security mechanisms which resulted in a lot of hot fixes we had to do!
+Thank you for your time and effort to improve the security of the DoD information network. Thanks again for supporting the DoD Vulnerability Disclosure Program.
