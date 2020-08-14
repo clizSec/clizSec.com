@@ -42,10 +42,9 @@ const ConctactInfo = () => {
           id,
           frontmatter: { title, icon, content }
         } = item.node;
-
         return (
           <Styled.ContactInfoItem key={id}>
-            <InfoBlock icon={icon} title={title} content={content} center />
+            <InfoBlock icon={icon} title={title} content={title === 'Email' ? `<a href="mailto:${content}?subject=Mail from clizSec.com" title="Contact me">clizsec@gmail.com</a>` : content} center />
           </Styled.ContactInfoItem>
         );
       })}
