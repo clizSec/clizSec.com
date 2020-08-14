@@ -1,9 +1,9 @@
 ---
 category: 'experiences'
-company: 'Microsoft'
-position: 'Cyber Security Engineer'
-startDate: 'Sep 2017'
-endDate: 'Aug 2018'
+company: 'HackerOne'
+position: 'Bounty Hunter'
+startDate: 'Feb 2015'
+endDate: 'Present'
 ---
 
-Advanced malware protection/analysis and web application/network security exploitation and protection.
+Hunting for bugs and volunteering to protect the community.
